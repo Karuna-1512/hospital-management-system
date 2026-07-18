@@ -1,0 +1,22 @@
+[
+  {
+    "doctorId": 1,
+    "doctorName": "Dr. Alice Smith",
+    "specialization": "Cardiology",
+    "department": "Cardiology",
+    "experience": 12,
+    "phone": "1234567890",
+    "email": "alice.smith@example.com",
+    "fee": 500
+  },
+  {
+    "doctorId": 2,
+    "doctorName": "Dr. Bob Johnson",
+    "specialization": "Orthopedics",
+    "department": "Orthopedics",
+    "experience": 8,
+    "phone": "0987654321",
+    "email": "bob.johnson@example.com",
+    "fee": 400
+  }
+]

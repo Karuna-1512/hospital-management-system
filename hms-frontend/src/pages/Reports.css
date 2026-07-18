@@ -1,0 +1,51 @@
+.report-card{
+    border-radius:20px;
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.report-card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 15px 35px rgba(0,0,0,0.25)!important;
+}
+
+.report-card h2{
+    font-size:2.3rem;
+}
+
+.report-card h6{
+    letter-spacing:1px;
+    opacity:.9;
+}
+
+.report-card i{
+    opacity:.9;
+}
+
+.report-section{
+    border-radius:18px;
+    transition:0.3s;
+}
+
+.report-section:hover{
+    transform:translateY(-5px);
+    box-shadow:0 15px 35px rgba(0,0,0,0.15)!important;
+}
+
+.report-section h4{
+    margin-bottom:8px;
+}
+
+.report-section button{
+    min-width:120px;
+    border-radius:10px;
+    font-weight:600;
+}
+
+.report-section .btn{
+    transition:0.3s;
+}
+
+.report-section .btn:hover{
+    transform:scale(1.05);
+}
