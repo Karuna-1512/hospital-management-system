@@ -1,0 +1,17 @@
+
+```gitignore
+# React
+hms-frontend/node_modules/
+hms-frontend/build/
+
+# Spring Boot
+hms-backend/target/
+
+# IDE
+.idea/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
